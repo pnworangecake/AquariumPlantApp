@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity
     public void onNameClick() {
         replaceFragment(new NameFragment());
     }
-
+//this is where the onclick listener is needed for each fragment?
     @Override
     public void onTypeClick() {
         replaceFragment(new TypeFragment());

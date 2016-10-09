@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AquariumPlantApp</string>
+    <string name="app_name">Aquarium Plant App</string>
     <string name="name">Name</string>
     <string name="type">Type</string>
     <string name="placement">Placement</string>
